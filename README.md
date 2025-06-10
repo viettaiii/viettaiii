@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://scontent.fsgn2-8.fna.fbcdn.net/v/t39.30808-6/505311293_1730638664327132_2593416410251352569_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=TqSbARUiMaIQ7kNvwEFeUl3&_nc_oc=AdntKab5rdzSFriwH3ExaSMirT3TrdFVSGpzjSTcotWCaG2YclOboqillfP3dFz_b24&_nc_zt=23&_nc_ht=scontent.fsgn2-8.fna&_nc_gid=1Zoiq5-j4gMRCVoSXFX6OQ&oh=00_AfNUjRT3eCSyVlpVdbyAWrHH8RbN3xtImqXCtFUcExEOsQ&oe=684E1837" alt="Avatar" width="160" style="border-radius: 50%;" />
-</p>
-
 # 👋 Hi, I'm Nguyen Viet Tai!
 
 ## 💼 About Me
