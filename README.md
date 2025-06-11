@@ -12,7 +12,7 @@ mentoring	tasks	and do code	reviews for	other team members.
 - **DevOps & Tools**: Docker, Git, CI/CD
 - **Foreign	Languages**:
      - TOEIC: 700/990
-- **Soft	Skills:**: Design Patterns, Problem Solving
+- **Soft	Skills:**: Design Patterns, Problem Solving, Teamwork
 
 ## PROFESSIONAL	EXPERIENCE	
 
